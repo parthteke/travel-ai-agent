@@ -1,0 +1,101 @@
+source,destination,price,airline
+Mumbai,Goa,4753,Air India
+Bangalore,Mumbai,3339,AirAsia
+Mumbai,Hyderabad,2760,IndiGo
+Mumbai,Delhi,4405,GoAir
+Delhi,Hyderabad,4305,Vistara
+Chennai,Goa,3807,AirAsia
+Kolkata,Chennai,4776,Air India
+Bangalore,Chennai,3337,IndiGo
+Kolkata,Manali,5440,SpiceJet
+Chennai,Goa,6263,GoAir
+Mumbai,Hyderabad,3145,GoAir
+Chennai,Delhi,3069,IndiGo
+Bangalore,Manali,4407,IndiGo
+Kolkata,Bangalore,6214,AirAsia
+Hyderabad,Mumbai,5532,SpiceJet
+Bangalore,Manali,3901,GoAir
+Bangalore,Mumbai,6286,Vistara
+Chennai,Delhi,5156,IndiGo
+Bangalore,Goa,5084,Vistara
+Chennai,Manali,4228,GoAir
+Hyderabad,Delhi,6589,Vistara
+Ahmedabad,Mumbai,4669,Air India
+Bangalore,Hyderabad,5771,SpiceJet
+Bangalore,Mumbai,6674,Vistara
+Mumbai,Goa,3398,Air India
+Pune,Hyderabad,3020,Vistara
+Kolkata,Bangalore,2594,AirAsia
+Mumbai,Bangalore,5286,IndiGo
+Chennai,Hyderabad,3795,Vistara
+Delhi,Bangalore,6600,Air India
+Mumbai,Bangalore,6658,GoAir
+Bangalore,Mumbai,5563,Air India
+Delhi,Chennai,6502,IndiGo
+Mumbai,Chennai,5019,Air India
+Delhi,Manali,3201,AirAsia
+Ahmedabad,Manali,6863,Air India
+Pune,Kolkata,3852,SpiceJet
+Kolkata,Delhi,6917,AirAsia
+Bangalore,Hyderabad,5559,Vistara
+Ahmedabad,Manali,4530,Air India
+Mumbai,Chennai,2672,GoAir
+Bangalore,Delhi,2558,IndiGo
+Delhi,Manali,2757,SpiceJet
+Mumbai,Delhi,4781,AirAsia
+Ahmedabad,Delhi,6917,Air India
+Ahmedabad,Delhi,6374,Vistara
+Bangalore,Manali,3294,AirAsia
+Kolkata,Chennai,5969,Vistara
+Ahmedabad,Goa,3306,IndiGo
+Kolkata,Chennai,3395,Air India
+Bangalore,Delhi,6893,Vistara
+Pune,Hyderabad,4003,SpiceJet
+Ahmedabad,Delhi,3117,Vistara
+Mumbai,Goa,6928,IndiGo
+Mumbai,Delhi,3862,Vistara
+Ahmedabad,Kolkata,4251,Vistara
+Delhi,Mumbai,5604,IndiGo
+Kolkata,Bangalore,6227,SpiceJet
+Kolkata,Mumbai,4055,SpiceJet
+Bangalore,Goa,6941,IndiGo
+Hyderabad,Goa,2910,GoAir
+Ahmedabad,Mumbai,2965,GoAir
+Mumbai,Manali,3056,AirAsia
+Bangalore,Hyderabad,3482,GoAir
+Bangalore,Goa,3171,Vistara
+Hyderabad,Bangalore,4173,AirAsia
+Hyderabad,Delhi,4675,Vistara
+Pune,Bangalore,6245,SpiceJet
+Mumbai,Goa,6254,GoAir
+Mumbai,Manali,6904,Air India
+Chennai,Mumbai,5359,IndiGo
+Bangalore,Chennai,4834,Air India
+Ahmedabad,Bangalore,6833,IndiGo
+Chennai,Manali,3600,SpiceJet
+Mumbai,Manali,3773,SpiceJet
+Chennai,Delhi,5308,Air India
+Chennai,Kolkata,4557,IndiGo
+Mumbai,Hyderabad,4766,IndiGo
+Delhi,Chennai,3571,AirAsia
+Chennai,Mumbai,6119,GoAir
+Kolkata,Goa,3416,IndiGo
+Pune,Goa,5524,GoAir
+Pune,Hyderabad,3544,IndiGo
+Chennai,Goa,5431,Air India
+Bangalore,Manali,5397,GoAir
+Kolkata,Mumbai,4439,Air India
+Pune,Hyderabad,2703,Air India
+Hyderabad,Delhi,4685,Air India
+Mumbai,Hyderabad,2817,Vistara
+Bangalore,Delhi,6270,SpiceJet
+Chennai,Delhi,4326,IndiGo
+Bangalore,Hyderabad,5189,SpiceJet
+Mumbai,Bangalore,5376,AirAsia
+Kolkata,Chennai,2726,IndiGo
+Chennai,Mumbai,4674,IndiGo
+Mumbai,Hyderabad,5331,AirAsia
+Hyderabad,Manali,5655,GoAir
+Bangalore,Goa,6072,IndiGo
+Bangalore,Chennai,6033,IndiGo
+Hyderabad,Chennai,3520,AirAsia
